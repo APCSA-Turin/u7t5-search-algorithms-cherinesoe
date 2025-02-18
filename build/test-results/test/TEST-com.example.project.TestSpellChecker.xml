@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestSpellChecker" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-02-18T05:41:42" hostname="codespaces-75dd07" time="0.862">
+  <properties/>
+  <testcase name="testLinearSearchInList()" classname="com.example.project.TestSpellChecker" time="0.015"/>
+  <testcase name="testBinarySearchInList2()" classname="com.example.project.TestSpellChecker" time="0.001"/>
+  <testcase name="testBinarySearchNotInList()" classname="com.example.project.TestSpellChecker" time="0.004"/>
+  <testcase name="testLinearSearchNotInList()" classname="com.example.project.TestSpellChecker" time="0.016"/>
+  <testcase name="testBinarySearchInList()" classname="com.example.project.TestSpellChecker" time="0.001"/>
+  <system-out><![CDATA[
+dictionary.txt file imported successfully!
+-- LINEAR SEARCH: Number of words checked (loop iterations): 44357
+
+dictionary.txt file imported successfully!
+
+dictionary.txt file imported successfully!
+-- BINARY SEARCH: Number of words checked (loop iterations): 17
+
+dictionary.txt file imported successfully!
+-- LINEAR SEARCH: Number of words checked (loop iterations): 127143
+
+dictionary.txt file imported successfully!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
